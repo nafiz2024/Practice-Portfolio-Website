@@ -276,7 +276,7 @@ nav .menu li a:hover {
 }
 
 .resume_card {
-  padding: 30px 0px;
+  padding: 30px 0px 50px 0px;
   margin-right: 70px;
 }
 
@@ -298,4 +298,8 @@ nav .menu li a:hover {
   font-size: 16px;
   line-height: 28px;
   color: #757575;
+}
+
+.resume_button {
+  text-align: center;
 }
