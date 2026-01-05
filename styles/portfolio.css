@@ -1,0 +1,75 @@
+/* Body Style */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+/*body {
+  display: flex;
+  justify-content: center;
+}
+
+.main {
+  width: 1600px;
+}*/
+
+/* Shared Style */
+.font-open-sans {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+}
+
+.color-orange {
+  color: #fd6e0a;
+}
+
+.button {
+  font-size: 20px;
+  color: White;
+  border: none;
+  padding: 19px 35px;
+  background-color: #fd6e0a;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.button:hover {
+  color: #fd6e0a;
+  background-color: #ffffff;
+}
+
+/* Main Style */
+/* Header And Navbar Style */
+header {
+  background-color: #fff8f3;
+  padding-top: 50px;
+}
+
+nav {
+  width: 71%;
+  max-width: 1140px;
+  margin: 0px auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.logo {
+  font-size: 45px;
+  font-weight: bold;
+}
+
+nav .menu {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  gap: 41px;
+}
+
+nav .menu li a {
+  text-decoration: none;
+  font-size: 20px;
+  color: #474747;
+}
+
+
