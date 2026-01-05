@@ -303,3 +303,56 @@ nav .menu li a:hover {
 .resume_button {
   text-align: center;
 }
+
+/* Footer Section Start */
+#footer {
+  background-color: #fff8f3;
+}
+
+.footer_container {
+  width: 71%;
+  max-width: 1140px;
+  padding: 130px 0px;
+  margin: 0px auto;
+  display: flex;
+  gap: 117px;
+}
+
+.social {
+  max-width: 560px;
+}
+
+.social h2 {
+  font-size: 35px;
+  font-weight: bold;
+  color: #181818;
+  margin-bottom: 20px;
+}
+
+.social p {
+  font-size: 16px;
+  line-height: 28px;
+  color: #474747;
+  margin-bottom: 30px;
+}
+
+.social_icons a {
+  margin-right: 24px;
+}
+
+.form h2 {
+  font-size: 35px;
+  font-weight: bold;
+  color: #181818;
+  margin-bottom: 28px;
+}
+
+.form input[type="text"] , textarea{
+  width: 461px;
+  padding: 18px 30px;
+  font-size: 16px;
+  color: #757575;
+  margin-bottom: 24px;
+  border: none;
+  border-radius: 5px;
+}
