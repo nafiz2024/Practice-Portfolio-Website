@@ -63,7 +63,7 @@ body {
 header {
   background: url("../images/developer.png"), url("../images/header_bg.png"),
     #fff8f3;
-  background-position: top left, bottom right;
+  background-position: 23px 38px, bottom right;
   background-repeat: no-repeat;
   padding-top: 50px;
 }
@@ -347,7 +347,8 @@ nav .menu li a:hover {
   margin-bottom: 28px;
 }
 
-.form input[type="text"] , textarea{
+.form input[type="text"],
+textarea {
   width: 461px;
   padding: 18px 30px;
   font-size: 16px;
