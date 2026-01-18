@@ -377,12 +377,22 @@ textarea {
     font-size: 30px;
   }
 
-  .skills_box {
+  .skills_box,
+  nav {
     display: flex;
     flex-direction: column;
   }
 
   .skills_card {
     width: 100%;
+  }
+
+  nav {
+    gap: 20px;
+  }
+
+  nav .menu {
+    flex-wrap: wrap;
+    justify-content: center;
   }
 }
