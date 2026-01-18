@@ -61,9 +61,11 @@ body {
 /* Main Style */
 /* Header And Navbar Style */
 header {
-  background: url("../images/developer.png"), url("../images/header_bg.png"),
-    #fff8f3;
-  background-position: 23px 38px, bottom right;
+  background:
+    url("../images/developer.png"), url("../images/header_bg.png"), #fff8f3;
+  background-position:
+    23px 38px,
+    bottom right;
   background-repeat: no-repeat;
   padding-top: 50px;
 }
@@ -356,4 +358,31 @@ textarea {
   margin-bottom: 24px;
   border: none;
   border-radius: 5px;
+}
+
+.hide {
+  display: none !important;
+}
+
+@media screen and (max-width: 576px) {
+  #skills {
+    padding-bottom: 60px;
+  }
+
+  .skills_container {
+    width: 95%;
+  }
+
+  .skills_heading h2 {
+    font-size: 30px;
+  }
+
+  .skills_box {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .skills_card {
+    width: 100%;
+  }
 }
