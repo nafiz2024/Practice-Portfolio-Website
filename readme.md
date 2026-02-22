@@ -1,5 +1,5 @@
 # Let's Build your Portfolio 
-<img src="./portfolio.png">
+<img src="./Practice Portfolio Website.png">
 
 # Image generation prompts
 # Professional Studio Portrait Prompts
