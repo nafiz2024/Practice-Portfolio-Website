@@ -45,7 +45,7 @@ portfolio/
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-
+```
 Open the index.html file in a web browser to view the portfolio website.
 
 To modify the content:
