@@ -1,62 +1,47 @@
-# Let's Build your Portfolio 
+# Portfolio Website - Nafiz Alam
+
 <img src="./Practice Portfolio Website.png">
 
-# Image generation prompts
-# Professional Studio Portrait Prompts
+## Overview
+This is a personal portfolio website for **Nafiz Alam**, a web designer & developer. The website showcases personal information, skills, resume, and contact options in a modern and responsive design. It is built using **HTML, CSS, and JavaScript** with Tailwind CSS and Font Awesome icons.
 
-These prompts are designed to generate ultra-realistic corporate-style studio portraits
+## Features
+- Responsive and mobile-friendly layout
+- Header with navigation menu
+- Banner section with introduction and call-to-action buttons
+- About section with personal info
+- Skills section highlighting key technical skills
+- Resume section with education and experience
+- Contact form and social media links
+- Downloadable CV button
+
+## Technologies Used
+- HTML5
+- CSS3 (including Tailwind CSS)
+- JavaScript
+- Google Fonts (Montserrat & Open Sans)
+- Font Awesome Icons
+
+## File Structure
+portfolio/
+│
+├─ index.html
+├─ styles/
+│ └─ portfolio.css
+├─ images/
+│ ├─ nafiz.png
+│ └─ icons/
+│ ├─ js.png
+│ ├─ react.png
+│ ├─ nodejs.png
+│ ├─ mongo.png
+│ ├─ facebook.png
+│ ├─ twitter.png
+│ └─ insta.png
+└─ README.md
 
 
-
-
-## Prompt 1: Professional Man (Corporate Headshot)
+## How to Use
+1. Clone the repository:
 ```bash
-Create a professional studio portrait of a smiling, smart, and confident man, using the reference image.
-Preserve the exact face, facial structure, skin tone, hairstyle, beard, and overall identity from the original image. Do not alter identity.
-
-Pose: standing straight with a confident posture, arms crossed — left forearm horizontal across the torso, right arm placed over it, right hand tucked under the left bicep.
-
-Outfit: navy blue blazer, light blue formal shirt, no tie.
-
-Lighting: soft professional studio lighting, evenly lit face with gentle natural shadows for depth.
-
-Background: solid black, clean and distraction-free.
-
-Camera & Style: eye-level angle, mid-torso to head framing, corporate headshot, ultra-realistic, DSLR photography, sharp focus, 4K quality.
-
-```
-
-## Prompt 2: Professional Woman (Corporate Headshot)
-```bash
-Create a professional studio portrait of a smiling, smart, and confident woman, using the reference image.
-Preserve the exact face, facial structure, skin tone, hairstyle, and overall identity from the original image. Do not alter identity.
-
-Pose: standing straight with a confident posture, arms crossed — left forearm horizontal across the torso, right arm placed over it, right hand tucked under the left bicep.
-
-Outfit: navy blue blazer, light blue formal shirt, no tie.
-
-Lighting: soft professional studio lighting, evenly lit face with gentle natural shadows for depth.
-
-Background: solid black, clean and distraction-free.
-
-Camera & Style: eye-level angle, mid-torso to head framing, corporate headshot, ultra-realistic, DSLR photography, sharp focus, 4K quality.
-
-```
-
-## Prompt 3: Muslim Woman (Navy Blue Burkha)
-```bash
-Create a professional studio portrait of a smiling, smart, and confident Muslim woman, using the reference image.
-Preserve the exact face, facial structure, skin tone, eye shape, and overall identity from the original image. Do not alter identity.
-
-Attire: modest navy blue burkha (abaya) with a matching navy blue hijab, neatly draped, elegant and professional. Face clearly visible.
-
-Pose: standing straight with a confident posture, arms crossed — left forearm horizontal across the torso, right arm placed over it, right hand tucked under the left bicep.
-
-Lighting: soft professional studio lighting, evenly lit face with gentle natural shadows for depth.
-
-Background: solid black, clean and distraction-free.
-
-Camera & Style: eye-level angle, mid-torso to head framing, corporate headshot, ultra-realistic, DSLR photography, sharp focus, 4K quality.
-```
-
-
+git clone <repository-url>
