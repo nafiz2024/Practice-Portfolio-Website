@@ -24,21 +24,21 @@ This is a personal portfolio website for **Nafiz Alam**, a web designer & develo
 
 ## File Structure
 portfolio/
-│
-├─ index.html
-├─ styles/
-│ └─ portfolio.css
-├─ images/
-│ ├─ nafiz.png
-│ └─ icons/
-│ ├─ js.png
-│ ├─ react.png
-│ ├─ nodejs.png
-│ ├─ mongo.png
-│ ├─ facebook.png
-│ ├─ twitter.png
-│ └─ insta.png
-└─ README.md
+- │
+- ├─ index.html
+- ├─ styles/
+- │ └─ portfolio.css
+- ├─ images/
+- │ ├─ nafiz.png
+- │ └─ icons/
+- │ ├─ js.png
+- │ ├─ react.png
+- │ ├─ nodejs.png
+- │ ├─ mongo.png
+- │ ├─ facebook.png
+- │ ├─ twitter.png
+- │ └─ insta.png
+- └─ README.md
 
 
 ## How to Use
@@ -57,6 +57,6 @@ Open the index.html file in a web browser to view the portfolio website.
 This project is for personal portfolio use. You can customize it for your own portfolio.
 
 ## Author:
-- Nafiz Alam
-- Email: nafizalam.dev@gmail.com
-- Location: Dhaka, Bangladesh
+- **Name**: Nafiz Alam
+- **Email**: nafizalam.dev@gmail.com
+- **Location**: Dhaka, Bangladesh
