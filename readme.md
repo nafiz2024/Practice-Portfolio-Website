@@ -48,20 +48,15 @@ git clone <repository-url>
 ```
 Open the index.html file in a web browser to view the portfolio website.
 
-To modify the content:
+## To modify the content:
+- Update text sections in index.html
+- Update styles in styles/portfolio.css
+- Replace images in the images/ folder
 
-Update text sections in index.html
-
-Update styles in styles/portfolio.css
-
-Replace images in the images/ folder
-
-License:
+## License:
 This project is for personal portfolio use. You can customize it for your own portfolio.
 
-Author:
-Nafiz Alam
-
-Email: nafizalam.dev@gmail.com
-
-Location: Dhaka, Bangladesh
+## Author:
+- Nafiz Alam
+- Email: nafizalam.dev@gmail.com
+- Location: Dhaka, Bangladesh
